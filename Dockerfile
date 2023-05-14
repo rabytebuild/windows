@@ -1,4 +1,4 @@
-FROM windows:latest
+FROM mcr.microsoft.com/windows:2004
 
 EXPOSE 3389
 
